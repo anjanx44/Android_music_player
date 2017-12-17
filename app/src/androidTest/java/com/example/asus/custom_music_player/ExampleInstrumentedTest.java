@@ -1,4 +1,4 @@
-package com.example.asus.myapplication;
+package com.example.asus.custom_music_player;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.asus.myapplication", appContext.getPackageName());
+        assertEquals("com.example.asus.custom_music_player", appContext.getPackageName());
     }
 }

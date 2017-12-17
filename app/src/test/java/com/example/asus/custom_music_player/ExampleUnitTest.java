@@ -1,4 +1,4 @@
-package com.example.asus.myapplication;
+package com.example.asus.custom_music_player;
 
 import org.junit.Test;
 
